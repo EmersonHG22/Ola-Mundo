@@ -1,6 +1,24 @@
-# Olá, Mundo!
- Primeiro Repositório do curso em vídeo
+# Olá, *Mundo*!
 
- Repositório criado durante uma aula  ao vivo
 
-Essa linha eu adicionei diretamente no site!  QUE IMPRESSIONANTE!
+#### Introdução:
+
+ *Primeiro Repositório do curso em vídeo*
+
+ *Repositório criado durante uma aula  ao vivo*
+
+*Essa linha eu adicionei diretamente no site!  QUE IMPRESSIONANTE!*
+
+
+
+#### Editor utilizado:
+
+*Visual Studio Code*
+
+
+
+#### Linguagem utilizada:
+
+
+
+*HTML*
